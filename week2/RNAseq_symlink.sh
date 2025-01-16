@@ -1,4 +1,4 @@
-#!/bin/bash
+name #!/bin/bash
 
 SourceDir="/data/class/ecoevo283/public/Bioinformatics_Course/RNAseq"
 DestDir="/pub/kaylatl2/EE283/RNAseq/rawdata"

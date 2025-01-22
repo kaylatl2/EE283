@@ -1,3 +1,9 @@
 DNAseq/rawdata/
 RNAseq/rawdata/
 ATACseq/rawdata/
+
+DNAseq/processed/
+ATACseq/processed/
+RNAseq/processed/
+
+ref/

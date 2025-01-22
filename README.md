@@ -7,5 +7,5 @@ Using Git and SLURM basics
 Creating symlinks 
 
 ## Week 3
-Running fastqc and trimmomatic 
+Running fastqc and trimmomatic  
 Indexing and aligning DNAseq, ATACseq, and RNAseq data

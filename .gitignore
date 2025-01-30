@@ -7,3 +7,7 @@ ATACseq/processed/*
 RNAseq/processed/*
 
 ref/*
+!ref/.gitkeep
+
+week4/assembly/*
+week4/output/*

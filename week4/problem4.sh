@@ -18,10 +18,12 @@ OutDir="/pub/kaylatl2/EE283/week4/output"
 #plot fragment coverage
 bamCoverage -b $A4 -o $OutDir/extend_A4_coverage.bedgraph \
     --binSize 1 \
-    --extendReads \
+    --normalizeUsing RPKM \
+    --extendReads 150 \
     --outFileFormat bedgraph
 
 bamCoverage -b $A5 -o $OutDir/extend_A5_coverage.bedgraph \
     --binSize 1 \
-    --extendReads \
+    --normalizeUsing RPKM \
+    --extendReads 150 \
     --outFileFormat bedgraph

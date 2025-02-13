@@ -13,3 +13,6 @@ Indexing and aligning DNAseq, ATACseq, and RNAseq data
 ## Week 4
 Installing software  
 Filtering reads 
+
+## Week 5
+GATK variant calling

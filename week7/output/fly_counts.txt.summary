@@ -1,0 +1,15 @@
+Status	/pub/kaylatl2/EE283/RNAseq/processed/21148B0_BodyPlate_A01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21286B0_BodyPlate_B01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22162B0_BodyPlate_C01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21297B0_BodyPlate_D01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21029B0_BodyPlate_F01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22052B0_BodyPlate_G01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22031B0_BodyPlate_H01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21293B0_BodyPlate_A02_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22378B0_BodyPlate_B02_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22390B0_BodyPlate_C02_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21148E0_EmbyroPlate_A01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21286E0_EmbyroPlate_B01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22162E0_EmbyroPlate_C01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21297E0_EmbyroPlate_D01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21029E0_EmbyroPlate_F01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22052E0_EmbyroPlate_G01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22031E0_EmbyroPlate_H01_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/21293E0_EmbyroPlate_A02_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22378E0_EmbyroPlate_B02_rep0.sort.bam	/pub/kaylatl2/EE283/RNAseq/processed/22390E0_EmbyroPlate_C02_rep0.sort.bam
+Assigned	487419	569934	1336355	651771	507548	397981	478073	1655749	625740	565603	830503	414266	717790	467054	405538	454869	565916	644583	564341	808007
+Unassigned_Unmapped	159660	224736	476144	231607	182278	148194	174109	546338	241849	189986	241322	241234	242384	152390	167009	164618	192779	223116	235894	273255
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	11997049	16263796	37671642	17551152	13406684	11271515	13204219	41693523	17701247	14817895	17680861	19014337	17909649	13676950	14453983	14997952	17079582	18038537	19332758	22840126
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	210083	293733	743516	327120	262283	210147	281801	839685	316644	263289	434937	432197	378194	250960	303967	291350	314373	345705	411486	428648
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	86256	122297	284285	141409	105464	80124	90516	362030	139581	127485	142464	143355	145402	90896	101234	109546	116667	136206	148243	172765

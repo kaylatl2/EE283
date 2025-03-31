@@ -14,13 +14,9 @@ Indexing and aligning DNAseq, ATACseq, and RNAseq data
 Installing software  
 Filtering reads 
 
-## Week 5
+## Week 5  
 GATK variant calling
-=======
 Filtering reads
-
-## Week 5 
-GATK variant calling
 
 ## Week 6
 ATACseq QC & peak calling 

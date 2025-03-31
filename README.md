@@ -12,7 +12,6 @@ Indexing and aligning DNAseq, ATACseq, and RNAseq data
 
 ## Week 4
 Installing software  
-<<<<<<< HEAD
 Filtering reads 
 
 ## Week 5
